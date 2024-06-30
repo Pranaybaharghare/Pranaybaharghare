@@ -68,5 +68,4 @@
 
 <img src="https://raw.githubusercontent.com/Pranaybaharghare/Pranaybaharghare/output/snake.svg" alt="Snake animation" />
 
-
 ###
