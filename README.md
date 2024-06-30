@@ -9,7 +9,6 @@
 
 ###
 
-<img align="right" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNeOZDv1eOH3MFIw45f5nRaDGfltLr1hDWRQ&s"  />
 
 ###
 
